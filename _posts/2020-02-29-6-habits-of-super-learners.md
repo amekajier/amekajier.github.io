@@ -2,6 +2,8 @@
 title: 6 Habits of Super Learners
 tags: 思维
 key: 6-habits-of-super-learners
+sharing: true
+show_subscribe: true
 ---
 
 # 高效学习者的六个习惯
